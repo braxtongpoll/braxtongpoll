@@ -15,19 +15,13 @@ Why do you actually read this...
 
 ### Some Highlights:
 
-- 📌 &nbsp; [FiveM HUD Design](https://github.com/Itz-Hyperz/HyperzHudDesign-FiveM)
-- 🚀 &nbsp; [Guardian Discord Whitelist](https://github.com/Jordan2139/Guardian)
-- 🏫 &nbsp; [HyperzFiveM-Base](https://github.com/itz-hyperz/hyperzfivem-base)
-- 🌀 &nbsp; [Universal Commands](https://github.com/Itz-Hyperz/Universal-Commands)
-- 👓 &nbsp; [Utilities Discord Bot](https://github.com/Itz-Hyperz/Hyperz-Utilities-Bot)
-- 💻 &nbsp; [This Github Template](https://github.com/Itz-Hyperz/Itz-Hyperz)
+- 📌 &nbsp; [Discord Store Bot](https://github.com/braxtongpoll/fivem-developer-bot-discord)
+- 🚀 &nbsp; [FiveM Discord Bot](https://github.com/braxtongpoll/fivem-discord-bot)
 
 ### Languages and Tools:
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
