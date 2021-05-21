@@ -1,6 +1,5 @@
 ## Hey 👋, I'm [PlutoTheDev!](https://plutothe.dev/)
 
-<img align="right" height="60" width="60" alt="" src="http://hyperz.dev/images/logowhite.png" />
 
 [![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.xendev.us/)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://plutothe.dev/)
