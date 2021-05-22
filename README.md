@@ -16,6 +16,7 @@ Why do you actually read this...
 
 - 📌 &nbsp; [Discord Store Bot](https://github.com/braxtongpoll/fivem-developer-bot-discord)
 - 🚀 &nbsp; [FiveM Discord Bot](https://github.com/braxtongpoll/fivem-discord-bot)
+- 🛠️ &nbsp; [Discord Moderation Bot](https://github.com/braxtongpoll/Discord-Moderation-Bot)
 
 ### Languages and Tools:
 
