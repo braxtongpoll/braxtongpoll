@@ -18,6 +18,11 @@ Why do you actually read this...
 - 🚀 &nbsp; [FiveM Discord Bot](https://github.com/braxtongpoll/fivem-discord-bot)
 - 🛠️ &nbsp; [Discord Moderation Bot](https://github.com/braxtongpoll/Discord-Moderation-Bot)
 
+### My Discords
+
+- [My Hangout Discord](https://discord.gg/vanities)
+- [My Development Discord](https://discord.xendev.us)
+
 ### Languages and Tools:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)&nbsp;
