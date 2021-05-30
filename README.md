@@ -21,7 +21,7 @@ Why do you actually read this...
 ### My Discords
 
 - [My Hangout Discord](https://discord.gg/vanities)
-- [My Development Discord](https://discord.xendev.us)
+- [My Development Discord](https://discord.gg/EMg4yTpGqH)
 
 ### Languages and Tools:
 
@@ -47,7 +47,7 @@ Why do you actually read this...
 - OS: Windows 10
 - Browser: Google Chrome
 - Code Editor: Sublime, Visual Studio Code, and Visual Studio
-- Stay Updated: [Discord](https://discord.xendev.us/)
+- Stay Updated: [Discord](https://discord.gg/EMg4yTpGqH)
 
 ---
 
