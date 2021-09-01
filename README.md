@@ -51,7 +51,7 @@ Why do you actually read this...
 - OS: Windows 10
 - Browser: Google Chrome
 - Code Editor: Sublime, Visual Studio Code, and Visual Studio
-- Stay Updated: [Discord](https://discord.gg/EMg4yTpGqH)
+- Stay Updated: [Discord](https://plutothe.dev/discord)
 
 ---
 
