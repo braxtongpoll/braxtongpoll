@@ -18,6 +18,10 @@ Why do you actually read this...
 - 🚀 &nbsp; [FiveM Discord Bot](https://github.com/braxtongpoll/fivem-discord-bot)
 - 🛠️ &nbsp; [Discord Moderation Bot](https://github.com/braxtongpoll/Discord-Moderation-Bot)
 
+### NPM Modules
+
+- [djs-better](https://www.npmjs.com/package/djs-better)
+
 ### My Discords
 
 - [My Hangout Discord](https://discord.gg/vanities)
