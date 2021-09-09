@@ -21,6 +21,7 @@ Why do you actually read this...
 ### NPM Modules
 
 - [djs-better](https://www.npmjs.com/package/djs-better)
+- [djs-embed-builder](https://www.npmjs.com/package/djs-embed-builder)
 
 ### My Discords
 
