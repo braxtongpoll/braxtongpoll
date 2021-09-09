@@ -1,7 +1,7 @@
 ## Hey 👋, I'm [PlutoTheDev!](https://plutothe.dev/)
 
 
-[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://discord.xendev.us/)
+[![Discord Badge](https://img.shields.io/badge/-Discord-0e76a8?style=flat-square&logo=Discord&logoColor=white)](https://plutothe.dev/discord)
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://plutothe.dev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/poll_braxton)
 
@@ -25,8 +25,8 @@ Why do you actually read this...
 
 ### My Discords
 
-- [My Hangout Discord](https://discord.gg/vanities)
-- [My Development Discord](https://discord.gg/EMg4yTpGqH)
+- [My Hangout Discord](https://plutothe.dev/discord)
+- [My Development Discord](https://plutothe.dev/discord)
 
 ### Languages and Tools:
 
