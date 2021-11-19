@@ -25,8 +25,8 @@ Why do you actually read this...
 
 ### My Discords
 
-- [My Hangout Discord](https://plutothe.dev/discord)
-- [My Development Discord](https://plutothe.dev/discord)
+- [My Hangout Discord](https://plutosworld.net/discord)
+- [My Development Discord](https://plutosworld.net/discord)
 
 ### Languages and Tools:
 
@@ -52,7 +52,7 @@ Why do you actually read this...
 - OS: Windows 10
 - Browser: Google Chrome
 - Code Editor: Sublime, Visual Studio Code, and Visual Studio
-- Stay Updated: [Discord](https://plutothe.dev/discord)
+- Stay Updated: [Discord](https://plutosworld.net/discord)
 
 ---
 
