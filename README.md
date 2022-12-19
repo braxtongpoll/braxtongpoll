@@ -25,11 +25,13 @@ Why do you actually read this...
 
 ## My Discord
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://api.weblutions.com/discord/invite/plutosworld">
-    <source media="(prefers-color-scheme: light)" srcset="https://api.weblutions.com/discord/invite/plutosworld/light">
-    <img alt="Discord Invite" src="https://api.weblutions.com/discord/invite/plutosworld">
-</picture>
+<a href="discord.gg/plutosworld" target="_blank">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://api.weblutions.com/discord/invite/plutosworld">
+        <source media="(prefers-color-scheme: light)" srcset="https://api.weblutions.com/discord/invite/plutosworld/light">
+        <img alt="Discord Invite" src="https://api.weblutions.com/discord/invite/plutosworld">
+    </picture>
+</a>
 
 <br />
 
