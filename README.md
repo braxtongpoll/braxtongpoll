@@ -23,10 +23,13 @@ Why do you actually read this...
 - [djs-better](https://www.npmjs.com/package/djs-better)
 - [djs-embed-builder](https://www.npmjs.com/package/djs-embed-builder)
 
-## My Discords
+## My Discord
 
-- [My Hangout Discord](https://plutosworld.net/discord)
-- [My Development Discord](https://plutosworld.net/discord)
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://api.weblutions.com/discord/invite/plutosworld">
+    <source media="(prefers-color-scheme: light)" srcset="https://api.weblutions.com/discord/invite/plutosworld/light">
+    <img alt="Discord Invite" src="https://api.weblutions.com/discord/invite/plutosworld">
+</picture>
 
 <br />
 
