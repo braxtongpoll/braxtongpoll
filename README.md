@@ -53,13 +53,13 @@ Why do you actually read this...
 ## GitHub Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2034%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2038%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11%20Million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 🏆 342 Contributions in the Year 2023
+> 🏆 343 Contributions in the Year 2023
  > 
 > 📦 361.6 kB Used in GitHub's Storage 
  > 
@@ -81,9 +81,9 @@ Why do you actually read this...
 ```text
 Monday       31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.65% 
 Tuesday      34 commits     ███░░░░░░░░░░░░░░░░░░░░░░   11.68% 
-Wednesday    19 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.53% 
+Wednesday    18 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   6.19% 
 Thursday     46 commits     ████░░░░░░░░░░░░░░░░░░░░░   15.81% 
-Friday       53 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.21% 
+Friday       54 commits     ████░░░░░░░░░░░░░░░░░░░░░   18.56% 
 Saturday     52 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.87% 
 Sunday       56 commits     ████░░░░░░░░░░░░░░░░░░░░░   19.24%
 
@@ -94,16 +94,18 @@ Sunday       56 commits     ████░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               3 mins              ██████████████████████░░░   90.65% 
+SQL                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   6.1% 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   3.25%
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  4 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+pnrp                     4 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  4 mins              █████████████████████████   100.0%
 
 ```
 
